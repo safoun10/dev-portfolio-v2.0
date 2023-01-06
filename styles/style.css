@@ -91,7 +91,7 @@ li{
 }
 
 .homepage{
-    background-image: url(../media/images/photos/header_bg.png), url(../media/images/photos/developer-v3.png);
+    background-image: url(../images/photos/header_bg.png), url(../images/photos/developer-v3.png);
     background-repeat: no-repeat;
     background-position: bottom right, bottom left;
     background-position: absolute;
